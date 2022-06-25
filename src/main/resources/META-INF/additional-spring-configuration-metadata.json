@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "producer.topic",
+  "type": "java.lang.String",
+  "description": "Kafka topic configuration"
+}]}
